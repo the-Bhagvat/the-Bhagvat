@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning  new lnaguage like aws cloud and python.<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since  2022 ...<br>📚 I'm currently learning  new lnaguage like aws cloud and python.<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
