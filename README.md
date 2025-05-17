@@ -1,3 +1,5 @@
+
+ 
  <h1 align="left">Hey 👋 What's up?</h1>
  
 <h4 align="left"> im the-bhagvat from Bhokardan well come to my profile</h4>
@@ -19,11 +21,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+ 
 
 ###
 
+
+
+<body>
+  <div class="social-icons">
+    <a href="https://wa.me/1234567890" target="7385634389" title="WhatsApp">
+      <img  align="right" alt="coding" width="50" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp Logo">
+    </a>
+    <a href="https://www.instagram.com/yourusername" target="thw_.bhagwat" title="Instagram">
+      <img  align="right" alt="coding" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram Logo">
+    </a>
+    <a href="https://github.com/yourusername" target="the-bhagvat" title="GitHub">
+      <img  align="right" alt="coding" width="50" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub Logo">
+    </a>
+  </div>
+</body>
